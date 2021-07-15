@@ -15,7 +15,7 @@ Algumas limitações:
 
 - A aplicação precisa ser criada via [`create-next-app`](https://nextjs.org/docs/api-reference/create-next-app)
 - Os itens exibidos precisam ter alguma estilização, e a interface precisa ser responsiva
-- A estilização precisa ser escrita com o seu próprio CSS. Você pode usar um preprocessador como o Sass (opcional), mas por favor não inclua bibliotecas de componentes como Material UI ou de estilos como Bootstrap, Tailwind, etc.
+- A estilização precisa ser escrita com o seu próprio CSS. Você pode usar um preprocessador como o Sass (opcional), mas por favor _não inclua_ bibliotecas de componentes como Material UI ou de estilos como Bootstrap, Tailwind, etc.
 - Você precisa documentar o seu código (mais detalhes no item "Documentação" abaixo)
 
 Cumprindo esses quatro quesitos, você é livre para implementar a aplicação da forma que preferir ou estender a funcionalidade dela (opcional). Por exemplo, você pode tentar [mostrar listas diferentes usando páginas diferentes](https://github.com/toddmotto/public-apis). Note que nós gostaríamos de saber a sua familiaridade com funcionalidades do React e do Next.js (e também note que se a sua familiaridade é pouca isso não é um problema :)
