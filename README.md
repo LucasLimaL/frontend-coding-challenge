@@ -33,3 +33,5 @@ Algumas considerações:
 - Há algo que você faria caso tivesse mais tempo para trabalhar no código?
 
 É isso! Desde já nosso muito obrigado e uma boa sorte! 🚀
+
+### Documentação do Candidato
