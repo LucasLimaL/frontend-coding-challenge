@@ -19,6 +19,6 @@ Algumas limitações:
 
 Cumprindo esses quatro quesitos, você é livre para implementar a aplicação da forma que preferir ou estender a funcionalidade dela (opcional). Por exemplo, você pode tentar [mostrar listas diferentes usando páginas diferentes](https://github.com/toddmotto/public-apis). Note que nós gostaríamos de saber a sua familiaridade com funcionalidades do React e do Next.js (e também note que se a sua familiaridade é pouca isso não é um problema :)
 
-Note que versionamento é uma forma de documentação do seu código, sobretudo as mensagens de commit. Elas São para nós uma ferramenta importante para entender o raciocínio por trás de cada alteração
+Vale também frisar que versionamento é uma forma de documentação do seu código, sobretudo as mensagens de commit. Elas são para nós uma ferramenta importante registrar e comunicar o raciocínio por trás de cada alteração.
 
-É isso! Desde já nosso muito obrigado e uma boa sorte! 🚀
+É isso! Desde já muito obrigado e uma boa sorte! 🚀
