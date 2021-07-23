@@ -1,7 +1,7 @@
 import Head from "next/head"
 import { Footer } from "../components/Footer"
 import { Header } from "../components/Header"
-import styles from "../styles/pages/Usuarios.module.css"
+import styles from "../styles/pages/Users.module.css"
 
 
 export const getStaticProps = async () => {
