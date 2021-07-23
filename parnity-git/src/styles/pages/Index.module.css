@@ -1,0 +1,11 @@
+/* .body {
+  color: red;
+  height: 100vh;
+}  */
+
+.mainFooterContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: calc(100vh - 3rem);
+}
