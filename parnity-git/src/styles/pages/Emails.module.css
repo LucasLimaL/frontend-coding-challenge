@@ -8,7 +8,7 @@
 .main {
     margin: 0;
 
-    color: white;
+    color: rgba(43, 145, 29, 0.76);
 
     display: flex;
     flex-wrap: wrap;
