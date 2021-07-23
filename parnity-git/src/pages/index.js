@@ -37,7 +37,7 @@ export default function Home() {
           <div>Olá, bem vindo ao meu site, aqui você pode ver:</div>
 
           <ul>
-            <li><a href='/usuarios'>Usuários</a></li>
+            <li><a href='/users'>Usuários</a></li>
             <li><a href='/emails'>Emails</a></li>
           </ul>
 
