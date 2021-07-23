@@ -5,16 +5,6 @@ import { Header } from "../components/Header"
 import { useEffect } from 'react';
 
 
-export const getStaticProps = async () => {
-  const res = await fetch('https://jsonplaceholder.typicode.com/users')
-  const json = await res.json();
-
-  return {
-    props: { data: json }
-  }
-}
-
-
 export default function Home() {
 
   // useEffect(() => {
@@ -25,7 +15,7 @@ export default function Home() {
     <div className={styles.container}>
 
       <Head>
-        <title>TITULO</title>
+        <title>Home</title>
         <body className={styles.body} />
       </Head>
 
@@ -34,11 +24,11 @@ export default function Home() {
       <div className={styles.mainFooterContainer}>
         <main>
 
-          <div>Olá, bem vindo ao meu site, aqui você pode ver:</div>
+          <h1>Olá, bem vindo ao meu site, aqui você pode ver:</h1>
 
           <ul>
-            <li><a href='/users'>Usuários</a></li>
-            <li><a href='/emails'>Emails</a></li>
+            <li><a href='/users'>Usuários Cadastrados</a></li>
+            <li><a href='/emails'>Emails Cadastrados</a></li>
           </ul>
 
         </main>

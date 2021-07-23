@@ -9,3 +9,44 @@
   justify-content: space-between;
   height: calc(100vh - 3rem);
 }
+
+.mainFooterContainer main {
+  display: inline-block;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.mainFooterContainer h1 {
+  font-size: 2.5rem;
+  margin-bottom: 100px;
+}
+
+.mainFooterContainer li {
+  margin-top: 40px;
+}
+
+.mainFooterContainer a {
+  background-color: rgba(0, 120, 0, 1);
+  color: white;
+
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+
+  line-height: 50px;
+}
+
+.mainFooterContainer a:hover {
+  background-color: rgba(0, 120, 0, 0.5);
+}
+
+
+@media screen and (min-width: 37.5rem) {
+  .mainFooterContainer main {
+    padding-top: 250px;
+  }
+
+  .mainFooterContainer a {
+    width: 300px;
+  }
+}
